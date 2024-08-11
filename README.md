@@ -1,8 +1,10 @@
-# React + Vite
+# Chat_AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Chat_AI is an advanced chatbot application that leverages Dialogflow technology to provide a smart and interactive chat experience. This project allows you to easily integrate an AI-driven chatbot into your web application, offering customer support, answering questions, and more.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Easy Integration**: Add a few lines of code to integrate the chatbot into your React application.
+- **Customizable Interface**: Customize the chat title and language to suit your needs.
+
+
