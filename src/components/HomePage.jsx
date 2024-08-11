@@ -25,19 +25,20 @@ const styles = {
 
 const HomePage = () => {
     useEffect(() => {
-        const script = document.createElement('script');
+        const script = document.createElement('script'); // create script
         script.src = "https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1";
         script.async = true;
-        document.body.appendChild(script);
+        document.body.appendChild(script); // add script at body
 
         return () => {
-            document.body.removeChild(script);
+            document.body.removeChild(script); // clear 
         };
     }, []);
 
     return (
         <div style={styles.container}>
             <h1 style={styles.h1}>Vu Trung Nghia</h1>
+           {/* Embed the Dialogflow chatbot*/}
             <df-messenger
                 intent="WELCOME"
                 chat-title="Test_AI_Chat"

@@ -8,3 +8,6 @@ Chat_AI is an advanced chatbot application that leverages Dialogflow technology 
 - **Customizable Interface**: Customize the chat title and language to suit your needs.
 
 
+## Images 
+
+![ChatBot](public/Images1.jpg)
