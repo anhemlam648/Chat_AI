@@ -44,7 +44,7 @@ const HomePage = () => {
                 <h1>Vu Trung Nghia</h1>
             </header>
             <main style={styles.mainContent}>
-                <h2>Welcome website chat bot</h2>
+                <h2>Welcome Chat Bot Website</h2>
             </main>
             <footer style={styles.footer}>
                 <p>&copy; 2024 By Vu Trung Nghia.</p>
